@@ -1,2 +1,2 @@
 select *
-from aa
+from aa;
